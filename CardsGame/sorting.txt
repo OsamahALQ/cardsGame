@@ -1,0 +1,14 @@
+In the first trial the change was that the ace came at first while the other numbers where above 
+it.
+
+
+After using the bubble sore on both of the classes and using the 2 versions the first list made a
+slight difference in the position of the jack and the queen by switching them and that shows that
+the compareTo in the card class was used however the ace of diamonds although it was an 
+othercard class it didn’t change spots and it was still above the queen class
+
+
+After trying the third version there was a slight difference in the middle also and that shows 
+that using difference subclasses will confuse the program when choosing to override a compare too
+and this is why it is better to use one concrete subclass for an abstract class that is 
+implementing the comparable.
